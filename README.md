@@ -11,3 +11,8 @@ Sublime Text 3 简体中文汉化包使用方法
 来源：CSDN 
 原文：https://blog.csdn.net/x550392236/article/details/78686419 
 版权声明：本文为博主原创文章，转载请附上博文链接！
+
+---
+baidu网盘地址：
+链接：https://pan.baidu.com/s/1-jORGDasza62sBdn14B4Xw 
+提取码：58yr 
