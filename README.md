@@ -14,5 +14,5 @@ Sublime Text 3 简体中文汉化包使用方法
 
 ---
 baidu网盘地址：
-链接：https://pan.baidu.com/s/1-jORGDasza62sBdn14B4Xw 
-提取码：58yr 
+链接：https://pan.baidu.com/s/19oVhsa5y3HJyyJvad9vS0g 
+提取码：q1sl
